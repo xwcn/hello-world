@@ -1,3 +1,4 @@
 # hello-world
-hello-world repository
-This is Eric.
+
+This is Eric Wang.
+This is a new Line.
